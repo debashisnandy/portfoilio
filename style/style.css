@@ -1,0 +1,52 @@
+
+body {
+    font-family: 'Exo 2', sans-serif;
+}
+
+.custom_header {
+    height: 100vh;
+}
+
+.custom_section {
+    height: 120vh;
+}
+h1 {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+p {
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 600;
+    color: #707070;
+}
+
+.header_image {
+    background: url('../assets/header.png');
+    height: 100%;
+    background-size: 70% 70%;
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+
+.footer-image {
+    background: url('../assets/footer.png');
+    height: 100%;
+    background-size: 70% 70%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+}
+
+.center-widget {
+    margin-top: 3rem;
+}
+
+.center-widget img{
+    display: block;
+    margin: auto;
+}
+
+.mt-6 {
+    margin-top: 10rem;
+}

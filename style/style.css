@@ -109,7 +109,7 @@ body {
 @media (max-width: 767px) and (max-height: 640px) {
     
     .header_image {
-        height: 180%;
+        height: 210%;
     }
 }
 
